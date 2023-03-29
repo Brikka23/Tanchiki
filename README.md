@@ -1,0 +1,2 @@
+# Tanchiki
+ Game for Yandex
